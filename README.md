@@ -1,4 +1,4 @@
-# lol-demo
+# MO-demo
 
 this is a demo repository
 
